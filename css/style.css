@@ -1,0 +1,18 @@
+.navbar-brands {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media(min-width: 960px) {
+    #movies img, #movie img {
+        width: 100%;
+    }
+
+    #movies .col-md-3 .well {
+        height: 490px;
+    }
+
+    #movies .col-md-3 img {
+        height: 348px;
+    }
+}
